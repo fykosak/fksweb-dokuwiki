@@ -65,3 +65,12 @@
 	path = lib/plugins/pageburner
 	url = https://github.com/fykosak/dokuwiki-plugin-pageburner.git
 
+[submodule "lib/plugins/data"]
+	path = lib/plugins/data
+	url = https://github.com/splitbrain/dokuwiki-plugin-data.git
+[submodule "lib/plugins/datatemplate"]
+	path = lib/plugins/datatemplate
+	url = https://github.com/Cyrille37/dokuwiki-plugin-datatemplate.git
+[submodule "lib/plugins/simpleforward"]
+	path = lib/plugins/simpleforward
+	url = https://github.com/fykosak/dokuwiki-plugin-simpleforward.git
