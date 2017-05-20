@@ -74,3 +74,6 @@
 [submodule "lib/plugins/simpleforward"]
 	path = lib/plugins/simpleforward
 	url = https://github.com/fykosak/dokuwiki-plugin-simpleforward.git
+[submodule "lib/plugins/fkstaskrepo"]
+	path = lib/plugins/fkstaskrepo
+	url = https://github.com/fykosak/dokuwiki-plugin-fkstaskrepo.git
