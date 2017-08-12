@@ -77,3 +77,6 @@
 [submodule "lib/plugins/fkstaskrepo"]
 	path = lib/plugins/fkstaskrepo
 	url = https://github.com/fykosak/dokuwiki-plugin-fkstaskrepo.git
+[submodule "lib/plugins/fksyearlistresults"]
+	path = lib/plugins/fksyearlistresults
+	url = https://github.com/sstenchlak/fykosak-dokuwiki-plugin-fksyearlistresults.git
