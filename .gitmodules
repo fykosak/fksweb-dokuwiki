@@ -80,3 +80,6 @@
 [submodule "lib/plugins/fksyearlistresults"]
 	path = lib/plugins/fksyearlistresults
 	url = https://github.com/sstenchlak/fykosak-dokuwiki-plugin-fksyearlistresults.git
+[submodule "lib/plugins/translatemapping"]
+	path = lib/plugins/translatemapping
+	url = https://github.com/fykosak/dokuwiki-plugin-translatemapping
