@@ -1,0 +1,14 @@
+# /robots.txt for http://fykos.mff.cuni.cz/
+# See http://web.nexor.co.uk/users/mak/doc/robots/norobots.html
+# webmaster@fykos.mff.cuni.cz
+
+# by default
+User-agent: *
+Disallow: /binary/
+Disallow: /scripts/
+Disallow: /logs/
+
+# by Michal (2011-11-10, updated 2011-12-26)
+User-agent: Googlebot-Image
+Disallow: /photo/organi/person46.jpg
+Disallow: /photo/organi/person46_thumb.jpg

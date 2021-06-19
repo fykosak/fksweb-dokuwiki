@@ -43,9 +43,6 @@
 [submodule "lib/plugins/fkshelper"]
 	path = lib/plugins/fkshelper
 	url = https://github.com/fykosak/dokuwiki-plugin-fkshelper.git
-[submodule "lib/plugins/iframe"]
-	path = lib/plugins/iframe
-	url = git@fykos.cz:dokuwiki/plugin-iframe.git
 [submodule "lib/plugins/fkstimer"]
 	path = lib/plugins/fkstimer
 	url = https://github.com/fykosak/dokuwiki-plugin-fkstimer.git
