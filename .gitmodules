@@ -83,3 +83,6 @@
 [submodule "lib/plugins/translatemapping"]
 	path = lib/plugins/translatemapping
 	url = https://github.com/fykosak/dokuwiki-plugin-translatemapping
+[submodule "lib/plugins/newsfeed"]
+	path = lib/plugins/newsfeed
+	url = https://github.com/fykosak/dokuwiki-plugin-newsfeed.git
