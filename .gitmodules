@@ -16,12 +16,6 @@
 [submodule "lib/tpl/fkstpl"]
 	path = lib/tpl/fkstpl
 	url = https://github.com/fykosak/dokuwiki-template-fkstpl.git
-[submodule "lib/plugins/fksnewsfeed"]
-	path = lib/plugins/fksnewsfeed
-	url = https://github.com/fykosak/dokuwiki-plugin-fksnewsfeed.git
-[submodule "lib/plugins/fkspoll"]
-	path = lib/plugins/fkspoll
-	url = https://github.com/fykosak/dokuwiki-plugin-fkspoll.git
 [submodule "lib/plugins/fksdownloader"]
 	path = lib/plugins/fksdownloader
 	url = https://github.com/fykosak/dokuwiki-plugin-fksdownloader.git
@@ -45,7 +39,7 @@
 	url = https://github.com/fykosak/dokuwiki-plugin-fkshelper.git
 [submodule "lib/plugins/fkstimer"]
 	path = lib/plugins/fkstimer
-	url = https://github.com/fykosak/dokuwiki-plugin-fkstimer.git
+	url = https://github.com/fykosak/dokuwiki-plugin-timer.git
 [submodule "lib/plugins/cookielaw"]
 	path = lib/plugins/cookielaw
 	url = https://github.com/fykosak/dokuwiki-plugin-cookielaw.git
@@ -55,9 +49,6 @@
 [submodule "lib/plugins/social"]
 	path = lib/plugins/social
 	url = https://github.com/fykosak/dokuwiki-plugin-social.git
-[submodule "lib/plugins/fksvlna"]
-	path = lib/plugins/fksvlna
-	url = https://github.com/fykosak/dokuwiki-plugin-fksvlna.git
 [submodule "lib/plugins/pageburner"]
 	path = lib/plugins/pageburner
 	url = https://github.com/fykosak/dokuwiki-plugin-pageburner.git
@@ -80,6 +71,3 @@
 [submodule "lib/plugins/translatemapping"]
 	path = lib/plugins/translatemapping
 	url = https://github.com/fykosak/dokuwiki-plugin-translatemapping
-[submodule "lib/plugins/newsfeed"]
-	path = lib/plugins/newsfeed
-	url = https://github.com/fykosak/dokuwiki-plugin-newsfeed.git
