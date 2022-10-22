@@ -1,18 +1,12 @@
 [submodule "lib/plugins/fksdbauth"]
 	path = lib/plugins/fksdbauth
 	url = https://github.com/fykosak/dokuwiki-plugin-fksdbauth.git
-[submodule "lib/plugins/plugin-captcha"]
-	path = lib/plugins/plugin-captcha
-	url = git@fykos.cz:dokuwiki/plugin-captcha.git
 [submodule "lib/plugins/captcha"]
 	path = lib/plugins/captcha
 	url = git@github.com:splitbrain/dokuwiki-plugin-captcha.git
 [submodule "lib/plugins/upgrade"]
 	path = lib/plugins/upgrade
 	url = https://github.com/splitbrain/dokuwiki-plugin-upgrade.git
-[submodule "lib/plugins/translate"]
-	path = lib/plugins/translate
-	url = https://github.com/fykosak/dokuwiki-plugin-translate.git
 [submodule "lib/tpl/fkstpl"]
 	path = lib/tpl/fkstpl
 	url = https://github.com/fykosak/dokuwiki-template-fkstpl.git
@@ -52,7 +46,6 @@
 [submodule "lib/plugins/pageburner"]
 	path = lib/plugins/pageburner
 	url = https://github.com/fykosak/dokuwiki-plugin-pageburner.git
-
 [submodule "lib/plugins/data"]
 	path = lib/plugins/data
 	url = https://github.com/splitbrain/dokuwiki-plugin-data.git
